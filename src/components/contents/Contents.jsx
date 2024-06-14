@@ -14,7 +14,7 @@ function Contents() {
           </div>
           <div className="cards">
             <div className="card">
-              <img src="/src/assets/images/card-img.png" alt="" />
+              <img src="../../../src/assets/images/card-img.png" alt="" />
               <div className="card-texts">
                 <p>
                   By <b>Wahid Ari |</b> 03 March 2019
@@ -23,7 +23,7 @@ function Contents() {
               </div>
             </div>
             <div className="card">
-              <img src="/src/assets/images/card-img-2.png" alt="" />
+              <img src="../../../src/assets/images/card-img-2.png" alt="" />
               <div className="card-texts">
                 <p>
                   By <b>Wahid Ari |</b> 03 March 2019
@@ -32,7 +32,7 @@ function Contents() {
               </div>
             </div>
             <div className="card">
-              <img src="/src/assets/images/card-img-3.png" alt="" />
+              <img src="../../../src/assets/images/card-img-3.png" alt="" />
               <div className="card-texts">
                 <p>
                   By <b>Wahid Ari |</b> 03 March 2019
