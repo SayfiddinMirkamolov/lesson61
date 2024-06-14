@@ -6,7 +6,7 @@ function Header() {
       <div className="container">
         <nav>
           <a href="#" className="logo">
-            <img src="/src/assets/images/logo.png" alt="logo" />
+            <img src="../../assets/images/logo.png" alt="logo" />
             <h2>Product</h2>
           </a>
           <div className="nav-items">
